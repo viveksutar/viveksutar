@@ -10,7 +10,7 @@
 
 ---
 
-<h3 quote align='center'>That's what I love from metal, and that's what I love from hip-hop.</h3 quote>
+<h3 quote align='center'>That's what I love about Fullstack development, and that's what I love about sharing my knowledge & experience .</h3 quote>
 
 ---
 
