@@ -68,10 +68,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/viveksutar"><img alt="Vivek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viveksutar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/viveksutar"><img alt="Vivek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksutar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viveksutar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksutar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
