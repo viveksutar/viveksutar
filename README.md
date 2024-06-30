@@ -13,8 +13,9 @@
 <h3 quote align='center'>That's what I love about Fullstack development, and that's what I love about sharing my knowledge & experience .</h3 quote>
 
 ---
-
+<p align="center">
 ## 🌐 My Website / Portfolio : https://viveksutar.github.io
+</p>
 ---
 ## 🌐 Socials:
 
